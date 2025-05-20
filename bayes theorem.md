@@ -12,5 +12,4 @@
 
 ## The medical test paradox, and redesigning Bayes' rule
 
-![image](https://github.com/user-attachments/assets/11a214cd-959a-40f1-ab16-3b5cb95c6b3a)
-
+![image](https://github.com/user-attachments/assets/a1a2593c-ec2f-44e5-99b8-e747ca790ef7)
